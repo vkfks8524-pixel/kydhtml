@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 연수자료 만들기"
+  short_description: "큰 글씨와 부드러운 시각 자료로 만드는 인터랙티브 HTML 연수 슬라이드"
+  default_prompt: "$kydhtml 스킬로 주제와 대상에 맞는 큰 글씨의 HTML 연수자료를 만들어줘."
